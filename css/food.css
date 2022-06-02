@@ -1,20 +1,22 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 .top-section{
     display: flex;
+    padding-bottom: 120px;
 }
-.top-item{
+.half-width{
     width: 50%;
 }
-.top-item h1{
+.half-width h1{
     font-size: 45px;
 }
-.top-item p{
+.half-width p{
     width: 90%;
     padding-bottom: 20px;
 }
-.top-item img{
+.half-width img{
     width: 80%;
 }
 .button-style{
@@ -27,4 +29,24 @@ body{
 #top-item1{
     padding-top: 100px;
     padding-left: 150px;
+}
+.about-area{
+    display: flex;
+    background-image: url(../images/shapes/7.png);
+    margin-bottom: 120px;
+}
+.half-width-about{
+    width: 50%;
+}
+#image-2{
+    height: 400px;
+    padding-left: 250px;
+    padding-top: 30px;
+}
+.half-width-about p{
+    width: 70%;
+    padding-bottom: 60px;
+}
+#about-item2{
+    padding-top: 60px;
 }
