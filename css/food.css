@@ -1,0 +1,30 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.top-section{
+    display: flex;
+}
+.top-item{
+    width: 50%;
+}
+.top-item h1{
+    font-size: 45px;
+}
+.top-item p{
+    width: 90%;
+    padding-bottom: 20px;
+}
+.top-item img{
+    width: 80%;
+}
+.button-style{
+    text-decoration: none;
+    color: white;
+    border-radius: 20px;
+    padding: 12px 20px;
+    background-image: linear-gradient(#ECA60F, tomato);
+}
+#top-item1{
+    padding-top: 100px;
+    padding-left: 150px;
+}
