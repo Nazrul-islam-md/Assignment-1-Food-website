@@ -51,7 +51,7 @@ body{
     padding-top: 60px;
 }
 #recipie-section{
-    margin-bottom: 120px;
+    margin-bottom: 90px;
 }
 #recipie-div1{
     text-align: center;
@@ -79,4 +79,21 @@ body{
 }
 #menu1{
     margin-left: 12%;
+}
+#subscriber-box{
+    display: flex;
+    width: 77%;
+    height: 200px;
+    border-radius: 15px;
+    box-shadow: 0 1px 25px rgba(0, 0, 0, 0.2);
+    margin-left: 12%;
+    margin-bottom: 80px;
+}
+#subscriber-box h1{
+    font-weight: bold;
+    font-size: 30px;
+}
+.subscriber-item{
+    padding-left: 15%;
+    padding-top: 3%;
 }
