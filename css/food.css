@@ -33,7 +33,7 @@ body{
 .about-area{
     display: flex;
     background-image: url(../images/shapes/7.png);
-    margin-bottom: 120px;
+    margin-bottom: 80px;
 }
 .half-width-about{
     width: 50%;
@@ -49,4 +49,34 @@ body{
 }
 #about-item2{
     padding-top: 60px;
+}
+#recipie-section{
+    margin-bottom: 120px;
+}
+#recipie-div1{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.recipie-menu{
+    display: flex;
+}
+.menu-box{
+    width: 310px;
+    margin: 0 2%;
+    box-shadow: 0 1px 12px rgba(0, 0, 0, 0.4);
+    border-radius: 15px;
+}
+.menu-box img{
+    width: 280px;
+    padding: 15px;
+}
+.menu-box h2{
+    font-weight:bold;
+    padding-left: 10px;
+}
+.menu-box p{
+    padding: 0 10px 10px 10px;
+}
+#menu1{
+    margin-left: 12%;
 }
