@@ -97,3 +97,15 @@ body{
     padding-left: 15%;
     padding-top: 3%;
 }
+#footer-style{
+    background-color: black;
+    height: 250px;
+    text-align: center;
+}
+#footer-style h2{
+    color: gray;
+    padding-top: 3%;
+}
+#footer-style p{
+    color: white;
+}
